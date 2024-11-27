@@ -56,6 +56,8 @@ input{
     }
     .product{
         text-align: center;
+        background-image: linear-gradient(rgba(142, 207, 210, 0.299), rgb(231, 234, 234)), url('perfume3.jpg');
+
     }
     img{
         height: 300px;
